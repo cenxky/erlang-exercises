@@ -22,3 +22,5 @@ There are 77 exercises in total. Some of them are in progress.
 - [x] [Diamond](diamond.erl)
 - [x] [Difference Of Squares](difference_of_squares.erl)
 - [x] [Series](series.erl)
+- [x] [Custom Set](custom_set.erl)
+- [x] [Triangle](triangle.erl)
