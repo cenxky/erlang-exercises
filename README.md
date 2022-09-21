@@ -25,3 +25,4 @@ There are 77 exercises in total. Some of them are in progress.
 - [x] [Custom Set](custom_set.erl)
 - [x] [Triangle](triangle.erl)
 - [x] [Prime Factors](prime_factors.erl)
+- [x] [Roman Numerals](roman_numerals.erl)
