@@ -26,3 +26,5 @@ There are 77 exercises in total. Some of them are in progress.
 - [x] [Triangle](triangle.erl)
 - [x] [Prime Factors](prime_factors.erl)
 - [x] [Roman Numerals](roman_numerals.erl)
+- [x] [Saddle Points](saddle_points.erl)
+- [x] [Complex Numbers](complex_numbers.erl)
