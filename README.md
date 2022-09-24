@@ -28,3 +28,5 @@ There are 77 exercises in total. Some of them are in progress.
 - [x] [Roman Numerals](roman_numerals.erl)
 - [x] [Saddle Points](saddle_points.erl)
 - [x] [Complex Numbers](complex_numbers.erl)
+- [x] [Rational Numbers](rational_numbers.erl)
+- [x] [Beer Song](beer_song.erl)
