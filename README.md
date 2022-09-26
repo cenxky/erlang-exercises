@@ -30,3 +30,5 @@ There are 77 exercises in total. Some of them are in progress.
 - [x] [Complex Numbers](complex_numbers.erl)
 - [x] [Rational Numbers](rational_numbers.erl)
 - [x] [Beer Song](beer_song.erl)
+- [x] [Anagram](anagram.erl)
+- [x] [Sieve](sieve.erl)
