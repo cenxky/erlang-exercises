@@ -32,3 +32,5 @@ There are 77 exercises in total. Some of them are in progress.
 - [x] [Beer Song](beer_song.erl)
 - [x] [Anagram](anagram.erl)
 - [x] [Sieve](sieve.erl)
+- [x] [Change](change.erl)
+- [x] [Meetup](meetup.erl)
