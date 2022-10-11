@@ -35,3 +35,4 @@ There are 77 exercises in total. Some of them are in progress.
 - [x] [Change](change.erl)
 - [x] [Meetup](meetup.erl)
 - [x] [Palindrome Products](palindrome_products.erl)
+- [x] [Minesweeper](minesweeper.erl)
